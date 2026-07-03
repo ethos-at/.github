@@ -1,8 +1,8 @@
 # Ethos Audio Transcriber (Ethos AT)
 
-'''text
+```text
 For edit the initial page, go to:
 .github
 └── profile
     └── README.md
-'''
+```
